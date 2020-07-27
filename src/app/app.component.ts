@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'pm-root',
-  template: '<h1>Harsha Surampudi</h1>',
+  templateUrl:'./app.component.html',
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
